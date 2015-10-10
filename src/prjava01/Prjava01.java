@@ -5,7 +5,7 @@
 package prjava01;
 /**
  *
-* @author magrdi1516daw2
+* @author orcaur1516daw2
 */
 import java.io.*;
 public class Prjava01 {
